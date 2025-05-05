@@ -1,5 +1,3 @@
-# Python Starter
+# Iseseisev Ülesanne: "E-Poe Andmemudel ERD”
 
-Quickly get started with [Python](https://www.python.org/) using this starter! 
-
-- If you want to upgrade Python, you can change the image in the [Dockerfile](./.devcontainer/Dockerfile).
+![image](https://github.com/user-attachments/assets/8674cbfb-c1a6-464f-8601-549149561a6e)
