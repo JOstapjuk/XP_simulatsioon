@@ -4,3 +4,4 @@
 
 # Praktiline Osa: Uudistegeneraatori Loomine
 
+![image](https://github.com/user-attachments/assets/b4a6119b-24bb-44a5-b6e3-ef2b71532160)
